@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Liked Songs',
+					link: 'spotify://collection/tracks',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'CTMBS',
+					link: 'spotify://playlist/5Us360BUcd006xAGmJRRDW',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Nerdy',
+					link: 'https://soundcloud.com/you/likes',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: "my life's  movie",
+					link: 'spotify://playlist/37i9dQZF1DX4OzrY981I1W',
 				},
 			],
 		},
